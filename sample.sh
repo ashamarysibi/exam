@@ -37,3 +37,4 @@ else
 echo "$value is prime"
 fi 
 fi
+done
